@@ -1,0 +1,4 @@
+-> npm create vite@latest (project_name, react, javascript)
+-> dir (the info should contain package.json)
+-> npm install
+-> npm run dev
